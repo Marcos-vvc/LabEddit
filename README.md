@@ -6,14 +6,14 @@
 <a href='#recursos'>Recursos</a> .
 <a href='#imagens'>Imagens</a> .
 <a href='#tecnologias'>Tecnologias</a> .
-<a href='#documentacao'>Documentação</a> .
+<a href='#documentação'>Documentação</a> .
 <a href='#instalação'>Instalação</a> .
 </p>
 
-# Sobre 🎯
+# Sobre 
 <p>Projeto com base na rede social Reddit. Feito em Mobile First, um conceito aplicado em projetos web onde o foco inicial da arquitetura e desenvolvimento é direcionado aos dispositivos móveis. Ou seja, seu layout e funcionalidades são desenvolvidos primeiramente para a tela do celular, e a partir disso se necessário, adaptado para telas maiores, como dos desktops.</p>
 
-# Imagens 📷
+# Imagens 
 <p align="center">
   
 ![Captura de tela 2022-08-15 113024](https://user-images.githubusercontent.com/98921788/184668064-450a34df-a8c2-4a48-978c-5a9fecce5875.png)
@@ -22,7 +22,7 @@
 
 </p>
 
-# Recursos ✏️
+# Recursos 
 
 - [x] Fazer cadastro
 - [x] Fazer login
@@ -31,7 +31,7 @@
 - [x] Comentar post
 - [x] Curti e Descutir comentários
 
-# Tecnologias 🛠️
+# Tecnologias 
 
 - React-router-dom
 - Axios
@@ -39,11 +39,11 @@
 - Styled-Components
 - Material-ui
 
-# Documentação 📄
+# Documentação 
 
 [Postman](https://documenter.getpostman.com/view/9731983/U16eu7nT)
 
-# Instalação 🖥️ 
+# Instalação 
 
 ```bash
 # Clone este repositório
