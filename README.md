@@ -41,7 +41,7 @@
 $ git clone <https://github.com/Marcos-vvc/LabEddit.git>
 
 #Acesse a pasta do projeto no terminal
-$ cd 
+$ cd LabEddit
 
 # Instale as dependências
 $ npm install
